@@ -7,6 +7,7 @@
     "node": "16.13.2"
   },
   "scripts": {
+    "start": "./port.sh"
     "start": "node index.js"
   },
   "author": "Did Dog",
