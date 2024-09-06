@@ -7,8 +7,8 @@
     "node": "16.13.2"
   },
   "scripts": {
-    "start": "./port.sh"
     "start": "node index.js"
+     "start": "./port.sh"
   },
   "author": "Did Dog",
   "license": "ISC",
