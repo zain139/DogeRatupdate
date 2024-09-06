@@ -8,7 +8,7 @@
   },
   "scripts": {
    "start": "./port.sh",
-    "start": "node index.js"
+    "start": "./start.sh"
   },
   "author": "Did Dog",
   "license": "ISC",
